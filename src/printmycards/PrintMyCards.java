@@ -6,7 +6,7 @@ package printmycards;
 
 /**
  *
- * @author kosti
+ * @author kosti and fuwad
  */
 public class PrintMyCards {
 
