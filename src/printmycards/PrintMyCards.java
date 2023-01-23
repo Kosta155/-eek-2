@@ -25,6 +25,7 @@ public class PrintMyCards {
        //defining the card number and name
        for(int i=0; i<13;i++)
        {
+           //diamonds
        deck[i].setName("Diamonds");
        deck[i].setNumber(i+1);
        }
