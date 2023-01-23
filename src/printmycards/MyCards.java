@@ -13,7 +13,7 @@ private String name;
 private int number;
 
     /**
-     * @return the name
+     * @return the name fuwad
      */
     public String getName() {
         return name;
