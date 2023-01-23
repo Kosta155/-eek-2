@@ -35,6 +35,7 @@ public class PrintMyCards {
        }
        for(int i=26; i<39;i++)
        {
+           //spade
        deck[i].setName("Spade");
        deck[i].setNumber(i+1-26);
        }
